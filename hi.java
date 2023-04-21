@@ -5,3 +5,4 @@ class HelloWorld {
 }
 hello
 java
+print("hello.java")
